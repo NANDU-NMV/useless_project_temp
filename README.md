@@ -1,95 +1,47 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# TELAB 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: MANDANTHALA123
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead : NANDU M V - COLLEGE OF ENGINEERING PERUMON
+- Member 2  : IVAN JOHN BENNY - COLLEGE OF ENGINEERING PERUMON
+- Member 3  : HRITIK KRISHNA - COLLEGE OF ENGINEERING PERUMON
 
 ### Project Description
-[2-3 lines about what your project does]
+A website like ETLAB but instead the students mark the attendance of teachers, rank them based on their lectures for the day. We also get to give anonymous feedback too! Look who's the boss now??
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Who doesn't want to rate 0 stars for that boring lecture last Monday??
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A website with basic login and an interface in which we can mark attendance, rate and give a feedback for the faculty based on our daily time table.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML, CSS, JAVASCRIPT
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Home Page
 
 ![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Login Page
 
 ![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Main Page
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
